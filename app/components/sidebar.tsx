@@ -307,10 +307,10 @@ export function SideBar(props: { className?: string }) {
               </Link>
             </div>
             <div className={styles["sidebar-action"]}>
-              <a href={"https://www.zmswa.xyz/"} target="_blank" rel="noopener noreferrer">
+              <a href={"https://github.com/qwernot/"} target="_blank" rel="noopener noreferrer">
                 <IconButton
                   aria={Locale.Export.MessageFromChatGPT}
-                  icon={<QQIcon />}
+                  icon={<GithubIcon />}
                   shadow
                 />
               </a>
