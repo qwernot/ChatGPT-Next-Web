@@ -310,7 +310,7 @@ export function SideBar(props: { className?: string }) {
               <a href={REPO_URL} target="_blank" rel="noopener noreferrer">
                 <IconButton
                   aria={Locale.Export.MessageFromChatGPT}
-                  icon={<QQIcon />}
+                  icon={<GithubIcon />}
                   shadow
                 />
               </a>
