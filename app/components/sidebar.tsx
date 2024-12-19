@@ -231,8 +231,8 @@ export function SideBar(props: { className?: string }) {
       {...props}
     >
       <SideBarHeader
-        title="NextChat"
-        subTitle="Build your own AI assistant."
+        title="WeGPT"
+        subTitle="Activate your AI assistant."
         logo={<ChatGptIcon />}
         shouldNarrow={shouldNarrow}
       >
@@ -310,7 +310,7 @@ export function SideBar(props: { className?: string }) {
               <a href={REPO_URL} target="_blank" rel="noopener noreferrer">
                 <IconButton
                   aria={Locale.Export.MessageFromChatGPT}
-                  icon={<GithubIcon />}
+                  icon={<QQIcon />}
                   shadow
                 />
               </a>
