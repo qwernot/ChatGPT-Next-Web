@@ -566,5 +566,5 @@ export const PLUGINS = [
   { name: "Search Chat", path: Path.SearchChat },
 ];
 
-export const SAAS_CHAT_URL = "https://zmswa.cn/img/wx.jpg";
-export const SAAS_CHAT_UTM_URL = "https://zmswa.cn/img/wx.jpg";
+export const SAAS_CHAT_URL = "https://www.zmswa.xyz/";
+export const SAAS_CHAT_UTM_URL = "https://www.zmswa.cn/";
