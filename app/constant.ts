@@ -214,7 +214,6 @@ export const ByteDance = {
 export const Alibaba = {
   ExampleEndpoint: ALIBABA_BASE_URL,
   ChatPath: "v1/services/aigc/text-generation/generation",
-  ImagePath: "v1/services/aigc/multimodal-generation/generation",
 };
 
 export const Tencent = {
